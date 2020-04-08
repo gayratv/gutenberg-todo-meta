@@ -7,6 +7,14 @@ I'm register custom post todo and include custom-fields to support argument:
 
 "supports" => ["custom-fields" ]
 
+## Instalation
+put repo in plagins folder <br>
+**run** : <br>
+npm install <br>
+npm start
+
+Activate plugin "Todo meta"
+
 ## USE
 
 Add new todo post.

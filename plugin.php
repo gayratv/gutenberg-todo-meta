@@ -1,6 +1,6 @@
 <?php
 /* 
-* Plugin Name: vgg-todo-meta
+* Plugin Name: Todo meta
 * Description: ToDO block + metafield
 * Author: Gayrat 
 */
