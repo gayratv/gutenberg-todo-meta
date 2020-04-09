@@ -22,7 +22,7 @@ Next add  "Meta todo list block"
 
 You can check meta data by calling in console:
 
-wp.data.select( 'core/editor' ).getEditedPostAttribute( 'meta' );
+wp.data.select( 'core/editor' ).getEditedPostAttribute( 'meta' )
 
 ## Problem
 Data don't save in database
